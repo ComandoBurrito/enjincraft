@@ -4,8 +4,6 @@ EnjinCraft is an implementation of the Enjin Java SDK.
 The primary goal of this project is to serve as an example for plugin developers on how to integrate Enjin blockchain technology into Minecraft servers.
 We encourage plugin developers to expand and build on this framework to create fun and engaging experiences for the Minecraft community.
 
-Cambio 1
-
 ## Useful Resources
 
 Released versions of EnjinCraft can be downloaded [here](../../releases).
